@@ -12,11 +12,11 @@ Design de cartão de perfil - Daniel Engineer
 <a href="https://designprofilecard.netlify.app/"><strong>Demonstração ao vivo</strong></a>
 </div>
 
-![alt text](preview-home.jpg)
+![preview-home](https://github.com/daniel-portela/profile-card/assets/110783805/e2a13efe-7b2b-447a-96e4-b4bdd214a14b)
 
-![alt text](preview-social.jpg)
+![preview-social](https://github.com/daniel-portela/profile-card/assets/110783805/b93d0564-080f-41bf-bbc8-159a8fb87bd5)
 
-![alt text](preview-responsive.jpg)
+![preview-responsive](https://github.com/daniel-portela/profile-card/assets/110783805/62ea0b9c-94b3-405a-9f8a-938f505bac6d)
 
 <b>Recursos</b>
 
